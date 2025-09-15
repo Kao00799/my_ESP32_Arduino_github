@@ -72,5 +72,5 @@ void loop() {
   }
 
   display.display();
-  delay(3000); // สแกนใหม่ทุก 5 วิ
+  delay(3000); // สแกนใหม่ทุก 3 วิ
 }
